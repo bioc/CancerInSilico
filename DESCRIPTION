@@ -1,7 +1,7 @@
 Package: CancerInSilico
 Type: Package
 Title: An R interface for computational modeling of tumor progression
-Version: 2.23.0
+Version: 2.23.1
 Date: 2018-04-06
 Author: Thomas D. Sherman,
     Raymond Cheng,
@@ -54,3 +54,5 @@ Collate:
     'class-GeneExpressionParams.R'
     'class-Pathway.R'
     'documentation.R'
+    'zzz.R'
+PackageStatus: Deprecated
